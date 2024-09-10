@@ -13,8 +13,13 @@ I'm currently learning programming
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dhruv00421&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Dhruv00421&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhruv00421&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
